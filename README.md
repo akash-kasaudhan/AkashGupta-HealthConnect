@@ -1,11 +1,11 @@
-# AkashGupta-JivanButi-HealthConnect
+# AkashGupta-HealthConnect
 Bridging healthcare gaps for underserved communities in India through telemedicine, Ayurvedic consultation, and real-time video consultations
 
-# JivanButi 🏥  
+# HealthConnect 🏥  
 **Empowering Healthcare Access in Remote India**
 
 ## About ℹ️  
-JivanButi, founded by **Akash Gupta**, is on a mission to connect India’s underserved communities with essential medical services, focusing on the last mile. By leveraging the latest technology, JivanButi aims to bridge healthcare gaps in remote Indian areas, making healthcare accessible, affordable, and convenient for everyone.
+HealthConnect, founded by **Akash Gupta**, is on a mission to connect India’s underserved communities with essential medical services, focusing on the last mile. By leveraging the latest technology, HealthConnect aims to bridge healthcare gaps in remote Indian areas, making healthcare accessible, affordable, and convenient for everyone.
 
 ## Current Problems ⚠️  
 - **Limited Access**: Remote communities face challenges in accessing quality healthcare due to geographical barriers and inadequate infrastructure.  
@@ -14,7 +14,7 @@ JivanButi, founded by **Akash Gupta**, is on a mission to connect India’s unde
 - **Limited Treatment Options**: Traditional medicine, like Ayurveda, is underrepresented, limiting the treatment options for patients.
 
 ## Unique Selling Propositions (USPs) 🌟  
-- **Underserved Community Focus**: JivanButi is specifically designed to address the healthcare needs of India’s remote and underserved communities, ensuring equitable access for all.  
+- **Underserved Community Focus**: HealthConnect is specifically designed to address the healthcare needs of India’s remote and underserved communities, ensuring equitable access for all.  
 - **Doctor-to-Doctor Connect**: Facilitates collaboration between healthcare professionals for enhanced multidisciplinary care.  
 - **Root Level Consultation via Ayurvedic Medicine Curation**: Offers expert-curated Ayurvedic consultations in local languages, with a database covering over 150 diseases.  
 - **Built-in Chat Bot Support**: Provides instant assistance for common healthcare queries through an AI-powered chatbot.  
@@ -44,7 +44,7 @@ JivanButi, founded by **Akash Gupta**, is on a mission to connect India’s unde
 - **npm**: [npm](https://www.npmjs.com/) for package management.
 
 ## What We Learned 📚  
-Developing JivanButi has deepened our understanding of healthcare challenges and the complexities of telehealth services. From navigating ethical concerns to meeting regulatory standards, the project taught us valuable lessons about how technology can transform healthcare delivery in rural areas.
+Developing HealthConnect has deepened our understanding of healthcare challenges and the complexities of telehealth services. From navigating ethical concerns to meeting regulatory standards, the project taught us valuable lessons about how technology can transform healthcare delivery in rural areas.
 
 ## What's Next for JivanButi 🔮  
 - Continuous refinement of AI models to improve diagnostic accuracy.  
@@ -52,4 +52,4 @@ Developing JivanButi has deepened our understanding of healthcare challenges and
 - Collaborations with healthcare professionals to gather insights and further refine our offerings.  
 - Exploration of cutting-edge technologies to remain at the forefront of the telemedicine revolution.
 
-**Akash Gupta** and his team at JivanButi remain dedicated to revolutionizing telehealth in India, ensuring that even the most remote communities have access to quality healthcare. Together, we are building a healthier, more connected future.
+**Akash Gupta** and his team at HealthConnect remain dedicated to revolutionizing telehealth in India, ensuring that even the most remote communities have access to quality healthcare. Together, we are building a healthier, more connected future.
