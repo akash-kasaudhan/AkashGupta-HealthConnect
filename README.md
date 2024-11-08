@@ -46,7 +46,7 @@ HealthConnect, founded by **Akash Gupta**, is on a mission to connect India’s 
 ## What We Learned 📚  
 Developing HealthConnect has deepened our understanding of healthcare challenges and the complexities of telehealth services. From navigating ethical concerns to meeting regulatory standards, the project taught us valuable lessons about how technology can transform healthcare delivery in rural areas.
 
-## What's Next for JivanButi 🔮  
+## What's Next for HealthConnect🔮  
 - Continuous refinement of AI models to improve diagnostic accuracy.  
 - Enhancements to existing features for an even better telehealth experience.  
 - Collaborations with healthcare professionals to gather insights and further refine our offerings.  
